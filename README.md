@@ -17,7 +17,8 @@ Requirements:
 One option is the anaconda suite which includes all necessary modules: 
 https://docs.continuum.io/anaconda/install
 
-** For more information on the dataset used please visit http://yelp.com/dataset_challenge
+** THE FILES WERE TOO LARGE TO UPLOAD ~ For more information on the dataset used please visit http://yelp.com/dataset_challenge 
+  
 
 USAGE: python yelp_recommendation_engine.py /USR_PATH/reviews.csv /USR_PATH/business.csv
 
